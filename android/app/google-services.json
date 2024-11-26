@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "936316371348",
+    "firebase_url": "https://novoproject-6640c-default-rtdb.firebaseio.com",
+    "project_id": "novoproject-6640c",
+    "storage_bucket": "novoproject-6640c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936316371348:android:ee34a16463a72554150f81",
+        "android_client_info": {
+          "package_name": "com.example.Novoproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpXcgdJcp5PPSyCrRI02E_JF1qODJjODo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936316371348:android:0269fa68f026f0d4150f81",
+        "android_client_info": {
+          "package_name": "com.example.crud_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpXcgdJcp5PPSyCrRI02E_JF1qODJjODo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
